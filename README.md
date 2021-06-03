@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Jami.
+# 👋 Hey! I'm Jamie.
 
 I'm a developer and a student who like to play with APIs, and develop useful or entertaining websites, games, client areas, progressive web applications (softwares), and other stuff.
 
