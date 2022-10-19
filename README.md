@@ -2,7 +2,7 @@
 
 I'm a developer and a student who like to play with APIs, and develop useful or entertaining websites, games, client areas, progressive web applications (softwares), and other stuff.
 
-I'm currently a backend developer. Hopefully, I will make a portfolio soon.
+Here is my portfolio: https://jmgcoding.com
 
 ## 📊 Statistics
 
